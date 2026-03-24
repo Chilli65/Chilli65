@@ -16,7 +16,8 @@ I like doing things occasionally :\]
 
 
 # Programming Languages I am Learnign
-![Rust Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/250px-Rust_programming_language_black_logo.svg.png)
+$${\color{white}![Rust Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/250px-Rust_programming_language_black_logo.svg.png)}$$
+
 
 <!--
 **Chilli65/Chilli65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
