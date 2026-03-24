@@ -1,3 +1,6 @@
+# Programming Languages I know
+
+![C++ Logo](ISO_C++_Logo.svg.png)![Java Logo](Java_programming_language_logo.svg.png)![Lua Logo](Lua-Logo.svg.png)![Python Logo](Python-logo-notext.svg.png)
 <!--
 **Chilli65/Chilli65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
